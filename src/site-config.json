@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "PREMIUM PRESTIGE FLOORING",
+    "phone": "+16785214696",
+    "category": "flooring installer",
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Atlanta's Flooring Authority",
+      "heroSubline": "Premium Prestige Flooring delivers unmatched quality and lasting value across Atlanta. We handle any flooring project, big or small, with precision and expertise.",
+      "aboutTitle": "Crafting Atlanta's Floors, One Project at a Time",
+      "aboutText": [
+        "Premium Prestige Flooring started with a simple goal: to provide Atlanta homeowners and businesses with exceptional flooring solutions. Frustrated with the lack of reliable, high-quality flooring installers, we built a company founded on integrity, craftsmanship, and customer satisfaction. We've been serving the metro area for over a decade, transforming spaces and exceeding expectations.",
+        "Our approach is simple: we listen to our clients, understand their needs, and deliver solutions that are both beautiful and durable. We don't cut corners; we use only the finest materials and employ skilled installers who are passionate about their craft. We pride ourselves on clear communication, transparent pricing, and a commitment to exceeding your expectations.",
+        "We're not just flooring installers; we're part of the Atlanta community. We're committed to giving back through local partnerships and charitable initiatives. We understand the unique challenges of Atlanta homes, from the expanding red clay soil to the humidity, and we tailor our solutions to withstand the test of time."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Our team of experienced installers ensures precise and flawless flooring installation, every time."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "We source only the highest-quality flooring materials from trusted manufacturers, guaranteeing lasting beauty and durability."
+        },
+        {
+          "title": "Custom Solutions",
+          "description": "We offer personalized flooring solutions tailored to your specific needs, style, and budget."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide upfront, honest pricing with no hidden fees or surprises. You'll know exactly what to expect."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Floors?",
+      "ctaSubline": "Contact Premium Prestige Flooring today for a free consultation and estimate. Let's bring your vision to life."
+    },
+    "services": [
+      {
+        "slug": "hardwood-flooring-installation",
+        "name": "Hardwood Flooring Installation",
+        "shortDescription": "Elevate your Atlanta home with the timeless elegance and warmth of hardwood.",
+        "description": "Hardwood flooring remains a classic choice for Atlanta homes, adding value and beauty to any space. We specialize in the expert installation of all types of hardwood, from traditional oak and maple to exotic species like Brazilian cherry and bamboo. Our installation process begins with a thorough subfloor preparation, ensuring a level and stable base for your new hardwood. We carefully select the right type of hardwood for your needs, considering factors like foot traffic, moisture levels, and your desired aesthetic. \n\nOur skilled installers then meticulously lay each plank, paying close attention to detail and ensuring a seamless, flawless finish. We offer a variety of finishing options, from natural stains to custom colors, allowing you to create a truly unique look. We also provide expert advice on hardwood maintenance, helping you keep your floors looking their best for years to come. Whether you live in a craftsman bungalow in Virginia-Highland or a modern home in Buckhead, we'll transform your space with the enduring beauty of hardwood.",
+        "process": [
+          "Step 1: Consultation and Design",
+          "Step 2: Subfloor Preparation",
+          "Step 3: Hardwood Installation",
+          "Step 4: Sanding and Finishing"
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Timeless Elegance",
+          "Durability and Longevity",
+          "Improved Air Quality"
+        ],
+        "faq": [
+          {
+            "question": "What type of hardwood is best for Atlanta's climate?",
+            "answer": "Hardwoods like oak and maple are generally well-suited to Atlanta's climate, as they are relatively stable and resistant to moisture changes. Engineered hardwood is also a good option, as it is more resistant to warping and cupping."
+          },
+          {
+            "question": "How long does hardwood flooring installation take?",
+            "answer": "The duration of installation depends on the size of the area, the type of hardwood, and the complexity of the project. We'll provide you with a detailed timeline during the consultation process."
+          },
+          {
+            "question": "How do I care for my new hardwood floors?",
+            "answer": "Regular sweeping and mopping with a pH-neutral cleaner are essential. Avoid using harsh chemicals or abrasive cleaners, and protect your floors from scratches by using furniture pads and area rugs."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring-installation",
+        "name": "Laminate Flooring Installation",
+        "shortDescription": "Achieve the look of hardwood or tile at a fraction of the cost with our laminate flooring solutions.",
+        "description": "Laminate flooring provides a cost-effective and durable alternative to hardwood and tile, making it a popular choice for Atlanta homeowners. We offer a wide selection of laminate styles, colors, and textures to suit any taste and budget. Our experienced installers ensure a precise and professional installation, paying close attention to detail and ensuring a seamless, flawless finish. Laminate is especially well-suited for basements in Atlanta due to its resistance to moisture. \n\nWe begin with a thorough subfloor preparation, ensuring a level and stable base for your new laminate. We then carefully install the laminate planks, using a click-lock system that creates a tight, water-resistant seal. We also offer a variety of underlayment options to improve sound insulation and comfort. Laminate flooring is easy to clean and maintain, making it an ideal choice for busy families and pet owners. Whether you're renovating a rental property in Midtown or updating your kitchen in Inman Park, we'll help you find the perfect laminate flooring to meet your needs.",
+        "process": [
+          "Step 1: Consultation and Selection",
+          "Step 2: Subfloor Preparation",
+          "Step 3: Laminate Installation",
+          "Step 4: Finishing Touches"
+        ],
+        "benefits": [
+          "Affordable Price",
+          "Durability and Scratch Resistance",
+          "Easy Maintenance",
+          "Wide Variety of Styles"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "While laminate flooring is water-resistant, it is not completely waterproof. It's important to clean up spills promptly to prevent damage."
+          },
+          {
+            "question": "Can laminate flooring be installed over concrete?",
+            "answer": "Yes, laminate flooring can be installed over concrete, but it's essential to ensure that the concrete is level and dry. A moisture barrier should also be installed to prevent moisture damage."
+          },
+          {
+            "question": "How long will laminate flooring last?",
+            "answer": "With proper care and maintenance, laminate flooring can last for 10-20 years or more."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring-installation",
+        "name": "Vinyl Flooring Installation",
+        "shortDescription": "Enjoy waterproof, stylish, and comfortable flooring with our premium vinyl options.",
+        "description": "Vinyl flooring is an excellent choice for Atlanta homes seeking waterproof and durable flooring options, especially in areas prone to moisture like bathrooms, kitchens, and basements. We offer a wide range of vinyl flooring styles, including luxury vinyl plank (LVP) and luxury vinyl tile (LVT), that mimic the look of hardwood, tile, and stone. Our skilled installers ensure a precise and professional installation, paying close attention to detail and ensuring a seamless, waterproof finish. \n\nWe begin with a thorough subfloor preparation, ensuring a level and stable base for your new vinyl. We then carefully install the vinyl planks or tiles, using adhesives and techniques that create a watertight seal. Vinyl flooring is easy to clean and maintain, making it an ideal choice for busy families and pet owners. Whether you're renovating a bathroom in Old Fourth Ward or updating your basement in Midtown, we'll help you find the perfect vinyl flooring to meet your needs.",
+        "process": [
+          "Step 1: Consultation and Design",
+          "Step 2: Subfloor Preparation",
+          "Step 3: Vinyl Installation",
+          "Step 4: Sealing and Finishing"
+        ],
+        "benefits": [
+          "Waterproof and Moisture Resistant",
+          "Durable and Long-Lasting",
+          "Easy to Clean and Maintain",
+          "Comfortable Underfoot"
+        ],
+        "faq": [
+          {
+            "question": "Is vinyl flooring suitable for bathrooms?",
+            "answer": "Yes, vinyl flooring is an excellent choice for bathrooms due to its waterproof properties."
+          },
+          {
+            "question": "Can vinyl flooring be installed over existing flooring?",
+            "answer": "In some cases, vinyl flooring can be installed over existing flooring, but it's essential to ensure that the existing flooring is level and stable."
+          },
+          {
+            "question": "How do I clean vinyl flooring?",
+            "answer": "Regular sweeping and mopping with a mild detergent are sufficient for cleaning vinyl flooring. Avoid using abrasive cleaners or harsh chemicals."
+          }
+        ]
+      },
+      {
+        "slug": "tile-flooring-installation",
+        "name": "Tile Flooring Installation",
+        "shortDescription": "Add lasting beauty and durability to your Atlanta home with our expert tile flooring installation services.",
+        "description": "Tile flooring offers unparalleled durability and aesthetic appeal, making it a popular choice for kitchens, bathrooms, and entryways in Atlanta homes. We specialize in the expert installation of all types of tile, including ceramic, porcelain, and natural stone. Our skilled installers ensure a precise and professional installation, paying close attention to detail and ensuring a level, grout-free finish. Given Atlanta's red clay soil, proper subfloor prep is essential for tile installation to prevent cracking. \n\nWe begin with a thorough subfloor preparation, ensuring a stable and level base for your new tile. We then carefully lay each tile, using precise measurements and techniques to create a seamless and visually stunning surface. We offer a wide variety of grout colors and patterns to complement your tile selection. Whether you're renovating a bathroom in Virginia-Highland or updating your kitchen in Buckhead, we'll help you create a tile floor that is both beautiful and durable.",
+        "process": [
+          "Step 1: Design Consultation",
+          "Step 2: Subfloor Preparation",
+          "Step 3: Tile Installation",
+          "Step 4: Grouting and Sealing"
+        ],
+        "benefits": [
+          "Exceptional Durability",
+          "Water Resistance",
+          "Variety of Styles and Colors",
+          "Easy to Clean"
+        ],
+        "faq": [
+          {
+            "question": "What type of tile is best for a bathroom?",
+            "answer": "Porcelain tile is an excellent choice for bathrooms due to its water resistance and durability."
+          },
+          {
+            "question": "How do I clean tile flooring?",
+            "answer": "Regular sweeping and mopping with a pH-neutral cleaner are sufficient for cleaning tile flooring. Avoid using abrasive cleaners or harsh chemicals."
+          },
+          {
+            "question": "How long will tile flooring last?",
+            "answer": "With proper care and maintenance, tile flooring can last for decades."
+          }
+        ]
+      },
+      {
+        "slug": "floor-repair-and-restoration",
+        "name": "Floor Repair and Restoration",
+        "shortDescription": "Revive your damaged or worn floors with our expert repair and restoration services.",
+        "description": "Don't replace your floors – restore them! Premium Prestige Flooring offers comprehensive floor repair and restoration services to breathe new life into your existing flooring. Whether you have damaged hardwood, chipped tile, or worn laminate, our skilled technicians can assess the damage and provide effective solutions. We understand the unique challenges of Atlanta homes, from the red clay soil that can cause foundation issues to the humidity that can damage wood flooring. \n\nOur repair services include patching, sanding, refinishing, and sealing. We use only the highest-quality materials and techniques to ensure a seamless and durable repair. Our restoration services can bring back the original beauty of your floors, enhancing the value and appeal of your home. Whether you're dealing with water damage in your basement or scratches on your hardwood floors, we can help you restore your floors to their former glory.",
+        "process": [
+          "Step 1: Damage Assessment",
+          "Step 2: Repair Plan",
+          "Step 3: Repair and Restoration",
+          "Step 4: Finishing and Sealing"
+        ],
+        "benefits": [
+          "Cost-Effective Solution",
+          "Extends Floor Lifespan",
+          "Enhances Home Value",
+          "Environmentally Friendly"
+        ],
+        "faq": [
+          {
+            "question": "Can you repair water-damaged hardwood floors?",
+            "answer": "Yes, we can repair water-damaged hardwood floors, but the extent of the damage will determine the best course of action. In some cases, we may need to replace damaged planks."
+          },
+          {
+            "question": "How long does floor repair take?",
+            "answer": "The duration of floor repair depends on the extent of the damage and the type of flooring. We'll provide you with a detailed timeline during the assessment process."
+          },
+          {
+            "question": "Can you restore old hardwood floors?",
+            "answer": "Yes, we can restore old hardwood floors through sanding, refinishing, and sealing. This process can bring back the original beauty of your floors."
+          }
+        ]
+      },
+      {
+        "slug": "subfloor-preparation-and-leveling",
+        "name": "Subfloor Preparation & Leveling",
+        "shortDescription": "Ensure a solid foundation for your new floors with our expert subfloor services.",
+        "description": "Proper subfloor preparation is crucial for a successful and long-lasting flooring installation. Premium Prestige Flooring offers comprehensive subfloor preparation and leveling services to ensure a solid foundation for your new floors. We understand the unique challenges of Atlanta homes, where the red clay soil can cause shifting and settling. Our experienced technicians will assess your subfloor and provide the necessary repairs and leveling to create a stable and even surface. \n\nWe use a variety of techniques and materials to repair and level subfloors, including patching, shimming, and self-leveling compounds. We also ensure that your subfloor is properly cleaned and free of debris before installing your new flooring. Whether you're installing hardwood, laminate, vinyl, or tile, our subfloor preparation services will ensure a flawless and long-lasting result.",
+        "process": [
+          "Step 1: Subfloor Assessment",
+          "Step 2: Repair and Leveling",
+          "Step 3: Cleaning and Preparation",
+          "Step 4: Moisture Testing"
+        ],
+        "benefits": [
+          "Ensures Proper Flooring Installation",
+          "Prevents Flooring Problems",
+          "Extends Floor Lifespan",
+          "Improves Floor Performance"
+        ],
+        "faq": [
+          {
+            "question": "Why is subfloor preparation important?",
+            "answer": "Proper subfloor preparation ensures that your new flooring is installed on a stable and level surface, preventing problems like warping, cracking, and unevenness."
+          },
+          {
+            "question": "How do you level a subfloor?",
+            "answer": "We use a variety of techniques to level subfloors, including patching, shimming, and self-leveling compounds. The best approach depends on the condition of the subfloor."
+          },
+          {
+            "question": "What if my subfloor has moisture problems?",
+            "answer": "We can address moisture problems in your subfloor by installing a moisture barrier or vapor retarder. It's essential to address moisture issues before installing new flooring."
+          }
+        ]
+      },
+      {
+        "slug": "stairs-and-trim-installation",
+        "name": "Stairs and Trim Installation",
+        "shortDescription": "Complete your flooring project with our expert stairs and trim installation services.",
+        "description": "The finishing touches make all the difference. Premium Prestige Flooring provides expert stairs and trim installation services to complete your flooring project with style and precision. We offer a wide range of stair and trim options to complement your flooring and enhance the overall aesthetic of your home. Our skilled craftsmen will meticulously install your stairs and trim, paying close attention to detail and ensuring a seamless and professional finish. \n\nWe offer a variety of stair and trim styles, including traditional, modern, and custom designs. We can also match your existing trim or create a completely new look. Whether you're installing new flooring throughout your home or simply updating your stairs and trim, we'll help you create a cohesive and visually stunning space.",
+        "process": [
+          "Step 1: Design Consultation",
+          "Step 2: Material Selection",
+          "Step 3: Installation",
+          "Step 4: Finishing and Detailing"
+        ],
+        "benefits": [
+          "Completes Flooring Project",
+          "Enhances Home Aesthetics",
+          "Adds Value to Home",
+          "Provides a Polished Finish"
+        ],
+        "faq": [
+          {
+            "question": "What types of trim do you offer?",
+            "answer": "We offer a wide variety of trim styles, including baseboards, crown molding, door casings, and window casings."
+          },
+          {
+            "question": "Can you match my existing trim?",
+            "answer": "Yes, we can match your existing trim or create a completely new look."
+          },
+          {
+            "question": "How long does stairs and trim installation take?",
+            "answer": "The duration of stairs and trim installation depends on the size and complexity of the project. We'll provide you with a detailed timeline during the consultation process."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Marietta",
+        "slug": "marietta-ga",
+        "state": "GA",
+        "content": "PREMIUM PRESTIGE FLOORING is proud to offer our expert flooring installation services to the residents of Marietta, Georgia. Marietta, with its blend of historic charm and modern living, presents unique flooring needs. From the established subdivisions built in the 1960s and 70s to the newer developments, we have the experience and expertise to handle any flooring project. We understand the specific demands of Marietta homes and businesses. Our team is well-versed in installing a variety of flooring types, including hardwood, laminate, tile, and carpet, ensuring your flooring withstands the test of time. \n\nWe're also familiar with the challenges posed by Georgia's hot, humid summers and can recommend flooring options that are both beautiful and durable, resisting moisture damage and maintaining their integrity for years to come. Whether you're renovating a historic home or updating a modern space, PREMIUM PRESTIGE FLOORING is your trusted partner for all your flooring needs in Marietta.",
+        "localContext": "Marietta is known for its historic Marietta Square, vibrant arts scene, and family-friendly atmosphere.",
+        "nearbyAreas": [
+          "Smyrna",
+          "Kennesaw",
+          "Roswell"
+        ]
+      },
+      {
+        "city": "Roswell",
+        "slug": "roswell-ga",
+        "state": "GA",
+        "content": "PREMIUM PRESTIGE FLOORING proudly serves the Roswell, Georgia community with top-quality flooring installation services. Roswell, known for its upscale 1980s and 90s subdivisions, demands flooring solutions that reflect its residents' discerning tastes and active lifestyles. We specialize in providing a wide range of flooring options, from elegant hardwood to durable laminate, ensuring your home or business looks its best. \n\nWe are aware of the climate challenges in Roswell, especially the hot, humid summers, require specific flooring solutions that can withstand the heat and moisture. We offer expert advice on selecting the right materials and installation techniques to prevent warping, mold growth, and other issues. PREMIUM PRESTIGE FLOORING is committed to delivering exceptional service and lasting results to the residents of Roswell.",
+        "localContext": "Roswell boasts beautiful parks, historic sites, and a thriving culinary scene.",
+        "nearbyAreas": [
+          "Alpharetta",
+          "Marietta",
+          "Sandy Springs"
+        ]
+      },
+      {
+        "city": "Alpharetta",
+        "slug": "alpharetta-ga",
+        "state": "GA",
+        "content": "PREMIUM PRESTIGE FLOORING is your premier choice for flooring installation services in Alpharetta, Georgia. Alpharetta's upscale developments, primarily built in the 1990s and 2000s, showcase a commitment to quality and style. We understand the importance of selecting flooring that complements the architectural design and enhances the overall aesthetic of your home or business.\n\nWe offer a comprehensive range of flooring options, from luxurious hardwood to modern tile, catering to the diverse preferences of Alpharetta residents. Given Alpharetta's climate, and the associated humidity, we offer flooring that is durable and resistant to moisture. From the initial consultation to the final installation, PREMIUM PRESTIGE FLOORING is dedicated to providing exceptional service and ensuring your complete satisfaction.",
+        "localContext": "Alpharetta is known for its excellent schools, upscale shopping, and vibrant business community.",
+        "nearbyAreas": [
+          "Roswell",
+          "Johns Creek",
+          "Milton"
+        ]
+      },
+      {
+        "city": "Johns Creek",
+        "slug": "johns-creek-ga",
+        "state": "GA",
+        "content": "PREMIUM PRESTIGE FLOORING is pleased to offer its expert flooring installation services to the residents of Johns Creek, Georgia. Johns Creek, known for its upscale subdivisions developed in the 1990s and 2000s, presents a unique opportunity to enhance the beauty and value of your home with premium flooring. We understand the importance of selecting flooring that complements your home's style and meets your lifestyle needs.\n\nWe offer a wide range of flooring options, from classic hardwood to modern laminate, ensuring you find the perfect fit for your space. We also understand the challenges posed by the Georgia climate, especially the hot, humid summers, and can recommend flooring options that are both beautiful and durable. PREMIUM PRESTIGE FLOORING is committed to providing exceptional service and lasting results to the residents of Johns Creek.",
+        "localContext": "Johns Creek is known for its excellent schools, beautiful parks, and family-friendly atmosphere.",
+        "nearbyAreas": [
+          "Alpharetta",
+          "Suwanee",
+          "Roswell"
+        ]
+      },
+      {
+        "city": "Kennesaw",
+        "slug": "kennesaw-ga",
+        "state": "GA",
+        "content": "PREMIUM PRESTIGE FLOORING is proud to serve the Kennesaw, Georgia community with professional flooring installation services. Kennesaw, with its suburban developments primarily built in the 1980s and 90s, offers a diverse range of housing styles and flooring needs. We understand the importance of selecting flooring that is both durable and aesthetically pleasing, enhancing the value and comfort of your home.\n\nWe offer a comprehensive range of flooring options, from affordable laminate to stylish tile, catering to the diverse preferences of Kennesaw residents. We also recognize the challenges posed by Georgia's climate, including the hot, humid summers, and can recommend flooring options that resist moisture damage and maintain their integrity for years to come. PREMIUM PRESTIGE FLOORING is dedicated to providing exceptional service and lasting results to the residents of Kennesaw.",
+        "localContext": "Kennesaw is known for its historic battlefield, vibrant downtown area, and family-friendly community.",
+        "nearbyAreas": [
+          "Marietta",
+          "Acworth",
+          "Smyrna"
+        ]
+      },
+      {
+        "city": "Smyrna",
+        "slug": "smyrna-ga",
+        "state": "GA",
+        "content": "PREMIUM PRESTIGE FLOORING is delighted to extend our expert flooring services to the residents and businesses of Smyrna, Georgia. Smyrna boasts a diverse mix of housing styles, from charming older homes to modern developments, creating a variety of flooring needs. We're equipped to handle any project, big or small, with precision and care.\n\nWe understand the importance of quality flooring that complements your space and stands up to the demands of daily life. Smyrna's humid climate requires flooring solutions that are both beautiful and resilient. We offer a wide range of options, including waterproof and water-resistant materials, ensuring your floors stay beautiful for years to come. Choose PREMIUM PRESTIGE FLOORING for reliable, top-notch flooring installation in Smyrna.",
+        "localContext": "Smyrna is known for its vibrant Market Village, community events, and convenient location near Atlanta.",
+        "nearbyAreas": [
+          "Marietta",
+          "Vinings",
+          "Mableton"
+        ]
+      },
+      {
+        "city": "Sandy Springs",
+        "slug": "sandy-springs-ga",
+        "state": "GA",
+        "content": "PREMIUM PRESTIGE FLOORING proudly serves the Sandy Springs, Georgia community, offering expert flooring installation and unparalleled customer service. Sandy Springs, known for its blend of residential neighborhoods and commercial centers, requires professional flooring solutions that cater to a diverse range of needs. Whether you're renovating a home, upgrading an office space, or building new construction, we have the expertise to deliver exceptional results.\n\nWe understand the importance of selecting flooring that reflects your style and enhances the value of your property. Sandy Springs' climate demands flooring options that can withstand the heat and humidity. We offer a wide selection of moisture-resistant and durable materials, ensuring your floors stay beautiful and functional for years to come. Choose PREMIUM PRESTIGE FLOORING for all your flooring needs in Sandy Springs.",
+        "localContext": "Sandy Springs is known for its parks, cultural attractions, and convenient access to Atlanta.",
+        "nearbyAreas": [
+          "Roswell",
+          "Dunwoody",
+          "Marietta"
+        ]
+      },
+      {
+        "city": "Dunwoody",
+        "slug": "dunwoody-ga",
+        "state": "GA",
+        "content": "PREMIUM PRESTIGE FLOORING is your trusted source for flooring installation in Dunwoody, Georgia. Dunwoody, with its established neighborhoods and growing business sector, requires expert flooring solutions that cater to a variety of needs. We are committed to providing top-quality service and exceptional results for every project, large or small.\n\nWe understand the importance of beautiful and durable flooring that enhances the appeal and value of your property. Dunwoody's climate requires flooring options that can withstand the heat and humidity. We offer a wide range of moisture-resistant and durable materials, ensuring your floors stay beautiful and functional for years to come. Choose PREMIUM PRESTIGE FLOORING for all your flooring needs in Dunwoody.",
+        "localContext": "Dunwoody is known for its excellent schools, shopping centers, and proximity to Perimeter Mall.",
+        "nearbyAreas": [
+          "Sandy Springs",
+          "Roswell",
+          "Brookhaven"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah K.",
+        "rating": 5,
+        "service": "Hardwood Flooring Installation",
+        "text": "Premium Prestige Flooring did an amazing job installing hardwood floors in our Buckhead condo. The team was professional, efficient, and the floors look absolutely beautiful. We couldn't be happier!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 4,
+        "service": "Laminate Flooring Installation",
+        "text": "We hired Premium Prestige Flooring to install laminate flooring in our basement in Inman Park. They did a great job at a reasonable price. There was a slight delay due to a material shortage, but they communicated well and kept us informed.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Tile Flooring Installation",
+        "text": "The team at Premium Prestige Flooring transformed our kitchen with beautiful new tile flooring. They were meticulous in their work and paid attention to every detail. Highly recommend!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "David M.",
+        "rating": 5,
+        "service": "Floor Repair and Restoration",
+        "text": "Our hardwood floors had some water damage from a leaky pipe. Premium Prestige Flooring did an excellent job repairing and restoring them. You can't even tell there was any damage! Very professional and skilled.",
+        "date": "2024-12-20"
+      },
+      {
+        "name": "Ashley P.",
+        "rating": 4,
+        "service": "Vinyl Flooring Installation",
+        "text": "We used Premium Prestige Flooring to install vinyl plank flooring in our bathroom. The installation was quick and the floors look great. One small area needed some touch-up, but they came back and fixed it promptly.",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "Kevin S.",
+        "rating": 5,
+        "service": "Subfloor Preparation & Leveling",
+        "text": "Premium Prestige Flooring did a fantastic job leveling our uneven subfloor before installing new hardwood. This was no easy task but they handled it with expertise. Very happy with the result!",
+        "date": "2024-10-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Premium Prestige Flooring | Atlanta, GA",
+        "description": "Expert flooring installation in Atlanta. Hardwood, laminate, vinyl, & tile. Free quotes. Call +16785214696."
+      },
+      "about": {
+        "title": "About Premium Prestige Flooring | Atlanta",
+        "description": "Learn about Premium Prestige Flooring: Atlanta's trusted flooring experts. Quality, experience, and customer satisfaction guaranteed."
+      },
+      "services": {
+        "title": "Flooring Services | Atlanta, GA",
+        "description": "Premium Prestige Flooring offers hardwood, laminate, vinyl, & tile installation in Atlanta. Repair, restoration, & subfloor prep."
+      },
+      "contact": {
+        "title": "Contact Us | Premium Prestige Flooring",
+        "description": "Contact Premium Prestige Flooring for a free quote on your next flooring project in Atlanta. Call +16785214696 today!"
+      },
+      "reviews": {
+        "title": "Customer Reviews | Atlanta Flooring",
+        "description": "Read reviews for Premium Prestige Flooring in Atlanta. See why customers trust us for quality flooring installation and service."
+      },
+      "service-areas": {
+        "title": "Service Areas | Atlanta Flooring",
+        "description": "Premium Prestige Flooring provides expert flooring services throughout the Atlanta metro area. See our service locations."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "hardwood-flooring-installation": "/images/service-hardwood-flooring-installation.webp",
+      "laminate-flooring-installation": "/images/service-laminate-flooring-installation.webp",
+      "vinyl-flooring-installation": "/images/service-vinyl-flooring-installation.webp",
+      "tile-flooring-installation": "/images/service-tile-flooring-installation.webp",
+      "floor-repair-and-restoration": "/images/service-floor-repair-and-restoration.webp",
+      "subfloor-preparation-and-leveling": "/images/service-subfloor-preparation-and-leveling.webp",
+      "stairs-and-trim-installation": "/images/service-stairs-and-trim-installation.webp"
+    },
+    "servicesResponsive": {
+      "hardwood-flooring-installation": {
+        "src": "/images/service-hardwood-flooring-installation.webp",
+        "srcset": "/images/service-hardwood-flooring-installation-400w.webp 400w, /images/service-hardwood-flooring-installation-800w.webp 800w, /images/service-hardwood-flooring-installation-1200w.webp 1200w, /images/service-hardwood-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring-installation": {
+        "src": "/images/service-laminate-flooring-installation.webp",
+        "srcset": "/images/service-laminate-flooring-installation-400w.webp 400w, /images/service-laminate-flooring-installation-800w.webp 800w, /images/service-laminate-flooring-installation-1200w.webp 1200w, /images/service-laminate-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring-installation": {
+        "src": "/images/service-vinyl-flooring-installation.webp",
+        "srcset": "/images/service-vinyl-flooring-installation-400w.webp 400w, /images/service-vinyl-flooring-installation-800w.webp 800w, /images/service-vinyl-flooring-installation-1200w.webp 1200w, /images/service-vinyl-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-flooring-installation": {
+        "src": "/images/service-tile-flooring-installation.webp",
+        "srcset": "/images/service-tile-flooring-installation-400w.webp 400w, /images/service-tile-flooring-installation-800w.webp 800w, /images/service-tile-flooring-installation-1200w.webp 1200w, /images/service-tile-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "floor-repair-and-restoration": {
+        "src": "/images/service-floor-repair-and-restoration.webp",
+        "srcset": "/images/service-floor-repair-and-restoration-400w.webp 400w, /images/service-floor-repair-and-restoration-800w.webp 800w, /images/service-floor-repair-and-restoration-1200w.webp 1200w, /images/service-floor-repair-and-restoration.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "subfloor-preparation-and-leveling": {
+        "src": "/images/service-subfloor-preparation-and-leveling.webp",
+        "srcset": "/images/service-subfloor-preparation-and-leveling-400w.webp 400w, /images/service-subfloor-preparation-and-leveling-800w.webp 800w, /images/service-subfloor-preparation-and-leveling-1200w.webp 1200w, /images/service-subfloor-preparation-and-leveling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "stairs-and-trim-installation": {
+        "src": "/images/service-stairs-and-trim-installation.webp",
+        "srcset": "/images/service-stairs-and-trim-installation-400w.webp 400w, /images/service-stairs-and-trim-installation-800w.webp 800w, /images/service-stairs-and-trim-installation-1200w.webp 1200w, /images/service-stairs-and-trim-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
